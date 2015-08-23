@@ -4,7 +4,7 @@ author: "Nidal Zeidat"
 date: "Saturday, August 22, 2015"
 output: html_document
 ---
-> **Note: Because all values are normalised into a -1 to 1 range (and the normalisation makes them unitless) so they are all "the same kind of thing" and can go into the same column.**
+> **Note: Because all values (with the exception of the columns Subject and Activity) are normalised into a -1 to 1 range and because normalisation makes them unitless) so they are all unitless. The values for the column "Subject"" are "Person ID" (also unitless). The column Activity carries the name of the activity executed (has no unit we well)**
 
 *  Subject 
  :  Subject 
