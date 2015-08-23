@@ -100,8 +100,6 @@ using the dplyr function "group_by()". This will create one (1) group of rows pe
 ##================================================================
 >Creating the codebook.md Markdown document is accomblished at the end of the script **run_analysis.R**. It has the for of
 
-> - *  Old Code 1
-> -   New code 1 used in the Tide data set
-> - *  Old Code 2
-> -   New code 2 used in the Tide data set
+> - *  Old Code 1 : New code 1 used in the Tide data set
+> - *  Old Code 2 : New code 2 used in the Tide data set
 > - ....

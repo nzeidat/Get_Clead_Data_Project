@@ -119,5 +119,5 @@ write.table(New_data_frame_grp_sum, file="./tidy_data_set.txt", row.names=FALSE)
 orig_col_names <- c("Subject", "Activity", 
     colnames(test_data)[grep("mean|std", colnames(test_data))])
 Modified_col_names <- names(New_data_frame_grp_sum)
-codebook <- paste("* ",orig_col_names,"\n",Modified_col_names,"\n")
+codebook <- paste("* ",orig_col_names,"\n : ",Modified_col_names,"\n")
 write.table(codebook, "codebook.md", quote = FALSE, row.names = FALSE, col.names = FALSE)
