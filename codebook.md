@@ -1,3 +1,11 @@
+---
+title: "README"
+author: "Nidal Zeidat"
+date: "Saturday, August 22, 2015"
+output: html_document
+---
+> **Note: Because all values are normalised into a -1 to 1 range (and the normalisation makes them unitless) so they are all "the same kind of thing" and can go into the same column.**
+
 *  Subject 
  :  Subject 
 
